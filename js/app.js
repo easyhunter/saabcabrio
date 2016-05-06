@@ -1,0 +1,1 @@
+var app = angular.module('saabApp', ['ngRoute', 'ngSanitize', 'saabAppControllers', 'saabAppServices', 'saabAppFilters']);
